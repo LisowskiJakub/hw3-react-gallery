@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw3-react-gallery/static/css/main.fd3ca679.css",
+    "main.js": "/hw3-react-gallery/static/js/main.664056bc.js",
+    "index.html": "/hw3-react-gallery/index.html",
+    "main.fd3ca679.css.map": "/hw3-react-gallery/static/css/main.fd3ca679.css.map",
+    "main.664056bc.js.map": "/hw3-react-gallery/static/js/main.664056bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd3ca679.css",
+    "static/js/main.664056bc.js"
+  ]
+}
